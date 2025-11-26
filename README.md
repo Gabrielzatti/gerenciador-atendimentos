@@ -1,13 +1,5 @@
 # Gestão de Atendimentos (Flutter + SQLite)
 
-Este repositório contém **apenas a pasta `lib/`** de um aplicativo Flutter para gestão de atendimentos
-(abrir, editar, acompanhar e finalizar atendimentos) usando **SQLite (sqflite)**, **BLoC (Cubit)** e
-**injeção de dependência com GetIt + Injectable**.
-
-> ⚠️ Como o `.zip` possui somente a pasta `lib/`, este código deve ser usado **dentro de um projeto Flutter já criado**
-(com `pubspec.yaml`, `android/`, `ios/`, etc.).
-
----
 
 ## 1. Tecnologias utilizadas
 
