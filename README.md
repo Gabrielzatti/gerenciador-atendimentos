@@ -2,8 +2,6 @@ Gestão de Atendimentos (Flutter + SQLite)
 
 Este projeto é um aplicativo Flutter para gestão de atendimentos, permitindo abrir, editar, acompanhar e finalizar atendimentos. Ele usa SQLite (sqflite) para persistência de dados, BLoC (Cubit) para gerenciamento de estado, e injeção de dependência com GetIt e Injectable.
 
-Atenção: Este repositório contém apenas a pasta lib/, então deve ser usado dentro de um projeto Flutter já criado.
-
 Tecnologias Utilizadas
 
 Flutter (SDK 3.x)
