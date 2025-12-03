@@ -32,29 +32,6 @@ Imagens e Câmera
 
 image_picker
 
-Estrutura do Projeto
-lib/
-├─ core/
-│  ├─ database/
-│  │  └─ app_database.dart
-│  └─ di/
-│     └─ app_module.dart
-│
-├─ feature/
-│  └─ atendimento/
-│     ├─ domain/
-│     │  ├─ atendimento.dart
-│     │  └─ atendimento_repository.dart
-│     ├─ data/
-│     │  ├─ atendimento_dao.dart
-│     │  └─ atendimento_repository_impl.dart
-│     └─ presentation/
-│        ├─ form/
-│        ├─ list/
-│        └─ pages/
-├─ injection.dart
-└─ main.dart
-
 Banco de Dados
 
 O banco de dados utiliza SQLite, e a tabela atendimentos possui os campos principais:
